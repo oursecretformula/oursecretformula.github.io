@@ -1,0 +1,6 @@
+# Only these reviewed public files may be staged from this directory.
+*
+!/.gitignore
+!/.nojekyll
+!/index.html
+!/robots.txt
